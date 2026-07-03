@@ -1,6 +1,6 @@
 ### Deep Learning - Predict `temperature`
 
-* In this challenge, you will predict the temperature in the future based on:
+* In this challenge, you will predict the temperature in the future based on: 
     - the past values of the temperature (which is our target)
     - the past values of other weather features (which are called past covariates)
 
